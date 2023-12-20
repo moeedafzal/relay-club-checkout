@@ -6,6 +6,8 @@
 
 This will install all the dependencies for the project.
 
+Please have a look at the .nvmrc file to ensure you are using the correct version of node.
+
 ## Running the project
 
 ### `npm run dev` | `yarn dev`

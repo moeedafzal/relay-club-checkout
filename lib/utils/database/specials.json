@@ -1,0 +1,49 @@
+{
+  "xForPriceOfY": {
+    "name": "X for price of Y",
+    "variables": {
+      "targetSku": {
+        "description": "SKU of the target product",
+        "value": "atv"
+      },
+      "numberToBuy": {
+        "description": "Number of products to be bought",
+        "value": 3
+      },
+      "numberToPayFor": {
+        "description": "Number of products to be paid for",
+        "value": 2
+      }
+    }
+  },
+  "bulkDiscount": {
+    "name": "Bulk Discount",
+    "variables": {
+      "targetSku": {
+        "description": "SKU of the target product",
+        "value": "ipd"
+      },
+      "minimumItemCount": {
+        "description": "Minimum count of the item to be bought",
+        "value": 5
+      },
+      "discountedPrice": {
+        "description": "Discounted Price",
+        "value": 499.99
+      }
+    }
+  },
+  "freeItem": {
+    "name": "Free Item",
+    "variables": {
+      "targetSku": {
+        "description": "SKU of the target product",
+        "value": "mbp"
+      },
+      "freeItemSku": {
+        "description": "SKU of the free product",
+        "value": "vga"
+      }
+    }
+  }
+}

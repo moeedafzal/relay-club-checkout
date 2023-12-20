@@ -1,0 +1,9 @@
+/node_modules
+/coverage
+/.next
+/.type-coverage
+.env
+.env.production
+
+# Typescript
+tsconfig.tsbuildinfo

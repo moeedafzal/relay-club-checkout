@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  background: linear-gradient( 176deg, #ee46bc 0%, #7839ee 50%, #43cbff 100% );;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  justify-content: space-between;
+  padding: 0 32px;
+  margin-bottom: 32px;
+  align-items: center;
+}
+
+.content {
+  padding: 0 52px;
+}
+
+.layout {
+  min-height: 100vh;
+}
+
+.footer {
+  text-align: center;
+}
+
+.headerImage {
+  cursor: pointer;
+}
+
+.logoImage {
+  margin-right: 8px;
+}
